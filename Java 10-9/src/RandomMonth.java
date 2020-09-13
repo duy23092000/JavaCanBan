@@ -2,10 +2,9 @@ import java.util.Random;
 
 public class RandomMonth {
     public static void main(String[] args) {
-        int month;
         Random input = new Random();
         for(int i = 1; i <= 1; i++){
-            month = 1+input.nextInt(12);
+            int month = 1+input.nextInt(12);
             switch (month) {
                 case 1 -> System.out.println("1. Tháng 1");
                 case 2 -> System.out.println("2. Tháng 2");
