@@ -31,7 +31,8 @@ public class Test {
 //        System.out.println(x);
 
         //Câu h:
-//        char x = s1.substring(0);
+//        char x = s1.charAt(0);
+//        System.out.println(x);
 
         //Câu i:
 //        String s3 = s1 + s2;
