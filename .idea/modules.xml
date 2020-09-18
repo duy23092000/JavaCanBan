@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java 10-9/Java 10-9.iml" filepath="$PROJECT_DIR$/Java 10-9/Java 10-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 15-9/Java 15-9.iml" filepath="$PROJECT_DIR$/Java 15-9/Java 15-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 17-9/Java 17-9.iml" filepath="$PROJECT_DIR$/Java 17-9/Java 17-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JavaCanBan.iml" filepath="$PROJECT_DIR$/.idea/JavaCanBan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaHomework/JavaHomework.iml" filepath="$PROJECT_DIR$/JavaHomework/JavaHomework.iml" />
+    </modules>
+  </component>
+</project>

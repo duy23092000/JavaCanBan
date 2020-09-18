@@ -1,0 +1,37 @@
+1. File mã nguồn java source có extension là .java. Phần mở rộng của java bytecode là .class
+2. Đầu vào của 1 trình biên dịch Java (compiler) là file chứa Java source code
+Đầu ra là 1 Java class file
+3. JVM - Java Virtual Machine - là 1 máy ảo Java. Chức năng: là trình thông dịch của Java, cung cấp môi trường thực thi các chương trình java
+4. Java có thể chạy trên Window, MacOS, Linux. Điều kiện để chạy 1 chương trình Java: cài đặt JDK và môi trường thực thi
+5. Dấu ngoặc nhọn để bên trên, dòng System.out.println("Welcome to Java") lùi vào 1 đoạn so với dòng trên
+6. Main -> main;
+'Welcome to Java' -> "Welcome to Java"
+7. 
+(a) false
+(b) false
+(c) false
+(d) true
+(e) 7
+(f) -7
+(g) 0
+(h) W
+(i) -1
+(j) 8
+(k) 14
+(l) 9
+(m) 15
+(n) me to Java
+(o) me to
+(p) true
+(q) true
+(r) welcome to java
+(s) WELCOME TO JAVA
+(t) Welcome to JavaProgramming is fun
+(u) false 
+(v) Wel
+
+8. Câu lệnh sai:
+String s3 = s1 - s2;
+s1 >= s2;
+char c = s1(0);
+char c = s1.charAt(s1.length());
