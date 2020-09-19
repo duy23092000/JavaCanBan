@@ -5,8 +5,7 @@ public class Main {
         System.out.println("Nhập năm: ");
         var year = new Input();
         year.getYearInput();
-        var display = new Input();
-        display.display();
+        year.display();
     }
 
 
