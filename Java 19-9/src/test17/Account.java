@@ -12,6 +12,10 @@ public class Account {
 
     }
 
+    public Date getDateCreated() {
+        return dateCreated;
+    }
+
     public Account(int accountID, double accountBalance) {
         this.accountID = accountID;
         this.accountBalance = accountBalance;
