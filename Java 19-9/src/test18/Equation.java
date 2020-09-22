@@ -1,4 +1,4 @@
-package equation;
+package test18;
 
 import java.util.Scanner;
 
