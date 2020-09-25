@@ -8,8 +8,11 @@ public class Equation {
     private int c;
 
 
-    public void setValue() {
+    public Equation() {
         Scanner inputValue = new Scanner(System.in);
+        System.out.println("Nhập giá trị của a:");
+        System.out.println("Nhập giá trị của b:");
+        System.out.println("Nhập giá trị của c:");
         a = inputValue.nextInt();
         b = inputValue.nextInt();
         c = inputValue.nextInt();
