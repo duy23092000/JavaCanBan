@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Jav 24-09.iml" filepath="$PROJECT_DIR$/Jav 24-09.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 10-9/Java 10-9.iml" filepath="$PROJECT_DIR$/Java 10-9/Java 10-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 15-9/Java 15-9.iml" filepath="$PROJECT_DIR$/Java 15-9/Java 15-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 17-9/Java 17-9.iml" filepath="$PROJECT_DIR$/Java 17-9/Java 17-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 19-9/Java 19-9.iml" filepath="$PROJECT_DIR$/Java 19-9/Java 19-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java 22-9/Java 22-9.iml" filepath="$PROJECT_DIR$/Java 22-9/Java 22-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 24-09.iml" filepath="$PROJECT_DIR$/Java 24-09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java 24-9.iml" filepath="$PROJECT_DIR$/Java 24-9.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaCanBan.iml" filepath="$PROJECT_DIR$/.idea/JavaCanBan.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaHomework/JavaHomework.iml" filepath="$PROJECT_DIR$/JavaHomework/JavaHomework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TEst.iml" filepath="$PROJECT_DIR$/TEst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ewqeqweqwe.iml" filepath="$PROJECT_DIR$/ewqeqweqwe.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.19-9/test.19-9.iml" filepath="$PROJECT_DIR$/test.19-9/test.19-9.iml" />
     </modules>
   </component>
